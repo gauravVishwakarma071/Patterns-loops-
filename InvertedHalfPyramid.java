@@ -13,6 +13,7 @@ public class InvertedHalfPyramid {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
 //****

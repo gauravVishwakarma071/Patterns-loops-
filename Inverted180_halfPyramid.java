@@ -20,5 +20,6 @@ public class Inverted180_halfPyramid {
 
             System.out.println();
         }
+        sc.close();
     }
 }
